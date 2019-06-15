@@ -1,7 +1,6 @@
 # conferencehalls
 Web i internet tehnologije - projekat (Bogi i Males)
 
-/*
 Dizajn projekta je sledeci:
 1) Dizajn i izrada baze i dokumentacije
 2) Dizajn jednog punog kompletnog kruga informacija:
@@ -21,4 +20,3 @@ Dizajn projekta je sledeci:
   - Contact
 5) Dopuna nedostataka i testiranje
 6) Dopuna dokumentacije
-*/
